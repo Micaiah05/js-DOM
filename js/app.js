@@ -40,12 +40,13 @@ dom4[0].innerHTML = 'o9q48ywbeiq34wyb89y3qnwetliuoqnwlt8yqwleorunq498yt1tqirweah
 
 Find the div with the class name of "profile" and replace the n/a with a quote from the legend himself.*/
 
+var dom5 = document.getElementsByClassName('profile')
+dom5[1].innerHTML = '2-386-02938iutioejrjoig;ujiqporupmtiou3pmroutp34utpm30u6p523086423^@%#^#%YGRTHWEH#%#%@^@##@^%%$^%@%4938utpuweqpofsdjdfsjq3p4tjfojsd;ojfdklv ao;wijsfl;kasjf;sajd sadkfjoqjw;oiajsfd;lkjsdf;lsakdjf;lakjdf;aksjdf;alksjdf lkj;qoijtowj;oiwjgoqwijf;sdjf;jgqworgijraoiugopw8quretpq34u871p37p984utp84u3tjp89jfweoijfdo42weif w;oiejf;ljiwefuwq w fwqpiejf;weijf;ljf sdflskdfj94tj94wi;oiwjesfd;ljsf lorem #^%^@%*&%^$#$%^#&%*#%^#$TGeogjdoijeg;oiiewt;esg'
 
 
 /*6. Samuel L Jackson
 
 Find the div with the class name of "alias" and replace the n/a with your favorite character that Sammy portrayed.*/
-
 
 
 /*7. David Ige
