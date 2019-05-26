@@ -34,7 +34,7 @@ dom3.innerHTML = 'Concatenation'
 Find the div with the class name of "profile" and replace the n/a with a verse from your favorite Prince song.*/
 
 var dom4 = document.getElementsByClassName('profile')
-dom4[0].innerHTML = 'o9q48ywbeiq34wyb89y3qnwetliuoqnwlt8yqwleorunq498yt1tqirweahkflqi8'
+dom4[0].innerHTML = 'o9q48ywbeiq34wyb89y3qnwetliuoqnwlt8yqwleorunq498yt1tqirweahkflqi8o2538uyioetrjkagls;alksfdgj;alkdfsj;oiqj35jaog;aomifjslfsl;kja'
 
 /*5. Bruce Lee
 
@@ -47,6 +47,9 @@ dom5[1].innerHTML = '2-386-02938iutioejrjoig;ujiqporupmtiou3pmroutp34utpm30u6p52
 /*6. Samuel L Jackson
 
 Find the div with the class name of "alias" and replace the n/a with your favorite character that Sammy portrayed.*/
+
+var dom6 = document.getElementsByClassName('alias')
+dom6[2].innerHTML = 'I don\'t know'
 
 
 /*7. David Ige
