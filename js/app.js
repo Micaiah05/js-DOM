@@ -26,6 +26,8 @@ Find the div with the id of "alias3" and replace the n/a with the following:
 
 Concatenation*/
 
+var dom3 = document.getElementById('alias3')
+dom3.innerHTML = 'Concatenation'
 
 /*4. Prince
 
