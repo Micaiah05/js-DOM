@@ -58,6 +58,10 @@ Create a div element and give it an id of "name7". Inside this div element, give
 
 Append this div element to the nameParent div*/
 
+var dom7 = document.createElement('div')
+dom7.id = 'name7';
+dom7.innerHTML = 'David Ige';
+nameParent.appendChild(dom7)
  
 /*8. The Dos Equis Dude
 
