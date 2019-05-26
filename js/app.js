@@ -16,6 +16,9 @@ Find the div with the id of "position2" and replace the n/a with the following:
 
 Project Manager*/
 
+var dom2 = document.getElementById('position2')
+dom2.innerHTML = 'Project Manager'
+
 
 /*3. Piko Taro
 
